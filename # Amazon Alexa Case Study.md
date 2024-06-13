@@ -25,20 +25,20 @@ The use of voice command handsfree virtual assistant has made a tremendous impac
 * Machine Learning would be necessary to learn and understand differences in tone as they relate to an individual’s personal mood, time of day as well as physical feelings. This would require a more enhanced version of voice recognition and in turn improve Alexa moving forward. 
 
 ## ADDENDUM
-[Link here] https://www.cnn.com/2018/10/16/tech/alexa-child-development/index.html
+ https://www.cnn.com/2018/10/16/tech/alexa-child-development/index.html
 
-[Link here] https://www.iit.edu/student-experience/student-and-alumni-stories/illinois-tech-amazon-alexa
+ https://www.iit.edu/student-experience/student-and-alumni-stories/illinois-tech-amazon-alexa
 
-[Link here] https://developer.amazon.com/en-US/alexa/alexa-fund-venture-capital
+ https://developer.amazon.com/en-US/alexa/alexa-fund-venture-capital
  
-[Link here] https://www.forbes.com/sites/ilkerkoksal/2018/10/10/whos-the-amazon-alexa-target-market-anyway/
+ https://www.forbes.com/sites/ilkerkoksal/2018/10/10/whos-the-amazon-alexa-target-market-anyway/
 
-[Link here] https://medium.com/@amysteele1999/how-is-alexa-using-artificial-intelligence-02dfec4bbb5d#:~:text=Alexa's%20AI%20capabilities%20go%20beyond,to%20engage%20in%20meaningful%20conversations.
+ https://medium.com/@amysteele1999/how-is-alexa-using-artificial-intelligence-02dfec4bbb5d#:~:text=Alexa's%20AI%20capabilities%20go%20beyond,to%20engage%20in%20meaningful%20conversations.
 
-[Link here] https://stackshare.io/alexa#integrations
+ https://stackshare.io/alexa#integrations
 
-[Link here] https://echalliance.com/news/forecast-2023-top-five-trends-in-voice-ai-for-2023/
+ https://echalliance.com/news/forecast-2023-top-five-trends-in-voice-ai-for-2023/
 
-[Link here] https://companiesmarketcap.com/amazon/revenue/
+ https://companiesmarketcap.com/amazon/revenue/
 
 
